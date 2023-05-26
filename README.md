@@ -1,6 +1,6 @@
 # Cheligeer (Ken) Cheligeer
-51 Country Village Cir NE, Calgary, AB, Canada  
-+1 (825)-712-5540  
+Calgary, AB, Canada  
+
 Email: [cheligeerken@ucalgary.ca](mailto:cheligeerken@ucalgary.ca), [cheligeercheligeer@albertahealthserivces.ca](mailto:cheligeercheligeer@albertahealthserivces.ca)
 
 ## Profile
