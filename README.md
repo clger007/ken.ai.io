@@ -53,3 +53,6 @@ Highly motivated and dedicated individual, with extensive knowledge and experien
 - Cheligeer, C., Huang, J., Wu, G., Bhuiyan, N., Xu, Y., & Zeng, Y. (2022). Machine learning in requirements elicitation: a literature review. AI EDAM, 36, e32.
 - Cheligeer, C., Yang, J., Bayatpour, A., Miklin, A., Dufresne, S., Lin, L., ... & Zeng, Y. (2023). A Hybrid Semantic Networks Construction Framework for Engineering Design. Journal of Mechanical Design, 145(4), 041405.
 - And more...
+
+
+@2023
