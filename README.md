@@ -1,7 +1,5 @@
 # Cheligeer (Ken) Cheligeer
-Email: [cheligeerken@ucalgary.ca](mailto:cheligeerken@ucalgary.ca), 
-
-[cheligeercheligeer@albertahealthserivces.ca](mailto:cheligeercheligeer@albertahealthserivces.ca)
+Email: [cheligeerken@ucalgary.ca](mailto:cheligeerken@ucalgary.ca)
 
 ## Profile
 Highly motivated and dedicated individual, with extensive knowledge and experience in information and system engineering, natural language processing, and machine learning. Currently working as a Data Scientist at Alberta Health Services, solving complex healthcare problems through research and machine learning.
