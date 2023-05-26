@@ -6,22 +6,6 @@ Email: [cheligeerken@ucalgary.ca](mailto:cheligeerken@ucalgary.ca), [cheligeerch
 ## Profile
 Highly motivated and dedicated individual, with extensive knowledge and experience in information and system engineering, natural language processing, and machine learning. Currently working as a Data Scientist at Alberta Health Services, solving complex healthcare problems through research and machine learning.
 
-## Education
-- **Doctor of Philosophy | 2018.09-2022.08**  
-  Concordia University, Canada  
-  Major: Information and System Engineering
-
-- **Master of Information Technology | 2014.03-2015.12**  
-  Monash University, Australia  
-  Major: Information Technology
-
-- **Master of Business information system | 2014.03-2015.12**  
-  Monash University, Australia  
-  Major: Business System Design
-
-- **Bachelor of Computer science | 2008.09-2012.06**  
-  Lanzhou University, China  
-  Major: Computer Science and Technology
 
 ## Work Experience
 - **Data scientist (CURRENT)| Alberta Health Services, Calgary, Canada| 2022.09 - Present**  
